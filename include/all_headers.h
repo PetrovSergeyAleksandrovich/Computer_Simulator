@@ -1,0 +1,5 @@
+#include "kbd.h"
+#include "ram.h"
+#include "cpu.h"
+#include "gpu.h"
+#include "disk.h"
