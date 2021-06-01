@@ -1,0 +1,3 @@
+C:/Users/info/CLionProjects/Computer_Simulator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/info/CLionProjects/Computer_Simulator/cmake-build-debug/CMakeFiles/Computer_Simulator.dir
+C:/Users/info/CLionProjects/Computer_Simulator/cmake-build-debug/CMakeFiles/edit_cache.dir
